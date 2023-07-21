@@ -1,0 +1,11 @@
+{
+	"idle_anim": "ArmaRoxa",
+	"image": "espada",
+	"position": [
+		126,
+		0
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "ArmaRoxa"
+}
