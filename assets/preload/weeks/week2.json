@@ -1,0 +1,41 @@
+{
+	"storyName": "Purple V.S Enimie",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "central-house",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "none",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"espada",
+		"",
+		"gunpurple"
+	],
+	"songs": [
+		[
+			"NsideMadness",
+			"Enimie",
+			[
+				46,
+				93,
+				253
+			]
+		],
+		[
+			"Shooting",
+			"Enimie",
+			[
+				46,
+				93,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
