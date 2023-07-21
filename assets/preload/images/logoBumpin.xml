@@ -2,20 +2,5 @@
 <TextureAtlas imagePath="logoBumpin.png">
 	<!-- Created with Adobe Animate version 22.0.2.168 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="logo bumin0000" x="2285" y="0" width="1120" height="762" frameX="-19" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0001" x="0" y="762" width="1139" height="762" frameX="0" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0002" x="0" y="0" width="1148" height="762" frameX="0" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0003" x="2278" y="762" width="1136" height="762" frameX="-12" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0004" x="1139" y="762" width="1139" height="762" frameX="-12" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0005" x="1148" y="0" width="1137" height="762" frameX="-14" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0006" x="0" y="1524" width="1134" height="763" frameX="-14" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0007" x="0" y="1524" width="1134" height="763" frameX="-14" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0008" x="1134" y="1524" width="1131" height="763" frameX="-14" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0009" x="1134" y="1524" width="1131" height="763" frameX="-14" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0010" x="2265" y="1524" width="1128" height="763" frameX="-14" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0011" x="2265" y="1524" width="1128" height="763" frameX="-14" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0012" x="0" y="2287" width="1128" height="763" frameX="-14" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0013" x="0" y="2287" width="1128" height="763" frameX="-14" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0014" x="0" y="2287" width="1128" height="763" frameX="-14" frameY="0" frameWidth="1151" frameHeight="763"/>
-	<SubTexture name="logo bumin0015" x="1128" y="2287" width="1123" height="763" frameX="-19" frameY="0" frameWidth="1151" frameHeight="763"/>
+	<SubTexture name="logo bumin0000" x="0" y="0" width="1131" height="835"/>
 </TextureAtlas>
