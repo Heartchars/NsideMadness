@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "robotidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RobotLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "robotdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "robotup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "robotright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Robot_assetss",
+	"position": [
+		0,
+		730
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
