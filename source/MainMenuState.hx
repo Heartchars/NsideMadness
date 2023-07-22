@@ -25,7 +25,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState {
 	public static var FNFUltimateVersion:String = '1.0';
-	public static var psychEngineVersion:String = '0.6.3';
+	public static var psychEngineVersion:String = '0.1.5';
 	public static var curSelected:Int = 0;
 
 	var gfDance:FlxSprite;
@@ -57,7 +57,7 @@ class MainMenuState extends MusicBeatState {
 
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("In the Menus", null);
+		DiscordClient.changePresence("Nos Menus", null);
 		#end
 		debugKeys = ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_1'));
 
